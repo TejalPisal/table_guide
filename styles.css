@@ -1,0 +1,24 @@
+*{
+    font-family: monospace;
+  }
+  h1{
+    text-align: center;
+  }
+  /*heading*/
+  .heading{
+    color: purple;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  table{
+    margin: 0 auto;
+  }
+  th{
+    background-color: plum;
+  }
+  td{
+    border-top: 1px solid darkorchid;
+  }
+  table{
+    border: 1px solid purple;
+  }
